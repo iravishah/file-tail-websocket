@@ -10,3 +10,7 @@ File tailing with the use of websocket and node js
 
 ### Step 3: Start client
 ``` copy path of index.html located inside public folder ```
+
+### NOTE
+
+``` add the file path in the env/local.json ```
