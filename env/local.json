@@ -1,0 +1,6 @@
+{
+  "file": "/file-tail-websocket/public/example.txt",
+  "maxLines": 5,
+  "tailTime": 1000,
+  "newLineChars": ["\n", "\r"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "file-tail-websocket",
+  "version": "1.0.0",
+  "description": "file tailing with websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iravishah/file-tail-websocket.git"
+  },
+  "keywords": [
+    "websocket",
+    "file"
+  ],
+  "author": "Ravi Shah <rvshah1992@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iravishah/file-tail-websocket/issues"
+  },
+  "homepage": "https://github.com/iravishah/file-tail-websocket#readme",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "websocket": "^1.0.30"
+  }
+}
