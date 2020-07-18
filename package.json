@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/iravishah/file-tail-websocket#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "websocket": "^1.0.30"
   }
 }
